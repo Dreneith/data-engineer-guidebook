@@ -30,4 +30,4 @@ WITH streak_started AS (
      )
 
      SELECT player_name, scoring_class, start_date, end_date
-     FROM aggregated
+     FROM aggregated;
